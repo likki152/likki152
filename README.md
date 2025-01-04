@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Likhith Kolli! 👋
 
-<!--
-**likki152/likki152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Graduate Student | Applied Data Science | Syracuse University**
 
-Here are some ideas to get you started:
+💼 **Experience Highlights**:
+- Software Engineer at Bank of America:
+  - Improved data flow by 40% and boosted team productivity by 30%.
+  - Developed a Metrics Visualizer tool for real-time monitoring, enhancing app performance by 40%.
+- AWS DevOps Engineer Intern:
+  - Automated CI/CD processes with Jenkins, GitHub, and Docker, reducing deployment time by 30%.
+  - Built an AI-powered facial recognition system using AWS Rekognition.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Skills**:
+- **Programming**: Python, Scala, SQL, JavaScript, R, Java, ReactJS, PHP, HTML/CSS.
+- **Tools & Platforms**: Tableau, Power BI, PySpark, AWS, Azure, Docker, Jenkins, CI/CD pipelines.
+
+
+🌟 **Certifications**:
+- AWS DevOps Engineer | AI Fundamentals by IIT Kanpur.
+
+📫 **Connect with Me**:
+- [LinkedIn](https://www.linkedin.com/in/likhithkolli)
+- 📧 klikhith@syr.edu
+
+---
+
+Feel free to explore my projects and repositories below. Let's collaborate and build something impactful together!
+
+---
+
+⭐️ If you like my work, consider giving it a star! 😊
