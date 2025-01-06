@@ -1,6 +1,6 @@
 # Hi, I'm Likhith Kolli! 👋
 
-🎓 **Graduate Student | Applied Data Science | Syracuse University**
+Ios Developer👨‍💻 |🎓 **Graduate Student | Applied Data Science | Syracuse University**
 
 💼 **Experience Highlights**:
 - Software Engineer at Bank of America:
@@ -11,7 +11,7 @@
   - Built an AI-powered facial recognition system using AWS Rekognition.
 
 💻 **Skills**:
-- **Programming**: Python, Scala, SQL, JavaScript, R, Java, ReactJS, PHP, HTML/CSS.
+- **Programming**: Swift, Swift UI, UI kit, Python, Scala, SQL, JavaScript, R, Java, ReactJS, PHP, HTML/CSS.
 - **Tools & Platforms**: Tableau, Power BI, PySpark, AWS, Azure, Docker, Jenkins, CI/CD pipelines.
 
 
